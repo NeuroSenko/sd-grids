@@ -1,6 +1,6 @@
 {
   "title": "NAI Shinobu Example",
-  "pathPattern": "http://127.0.0.1:1234/imgs/img ({{n}}).png",
+  "pathPattern": "https://neurosenko.github.io/sd-grids/orange-senko-by-rimukoro/config.json/imgs/img ({{n}}).png",
   "labelRow": "Seed: {{label}}",
   "labelColumn": "{{label}}",
   "imageWidth": "512",
