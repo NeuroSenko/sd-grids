@@ -1,6 +1,6 @@
 {
   "title": "Anything V3 Senko by Rimukoro",
-  "pathPattern": "https://neurosenko.github.io/sd-grids/orange-senko-by-rimukoro/config.json/imgs/img ({{n}}).png",
+  "pathPattern": "https://neurosenko.github.io/sd-grids/any3-senko-by-rimukoro/imgs/img ({{n}}).png",
   "labelColumn": "Seed: {{label}}",
   "labelRow": "Hyper steps: {{label}}",
   "imageWidth": "1280",
