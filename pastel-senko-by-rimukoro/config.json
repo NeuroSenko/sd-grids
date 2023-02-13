@@ -3,8 +3,8 @@
   "pathPattern": "https://neurosenko.github.io/sd-grids/pastel-senko-by-rimukoro/imgs/img ({{n}}).png",
   "labelColumn": "Hyper strength: {{label}}",
   "labelRow": "Hyper steps: {{label}}",
-  "imageWidth": "512",
-  "imageHeight": "512",
+  "imageWidth": "1280",
+  "imageHeight": "1280",
   "columns": ["0", "0.2", "0.4", "0.6", "0.8", "1.0"],
   "rows": [
     "0",
