@@ -1,5 +1,5 @@
 {
-  "title": "NAI Shinobu Example",
+  "title": "NAI Shinobu Example test",
   "pathPattern": "https://neurosenko.github.io/sd-grids/nai-shinobu-example/imgs/img ({{n}}).png",
   "labelColumn": "{{label}}",
   "labelRow": "Seed: {{label}}",
